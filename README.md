@@ -19,3 +19,21 @@ And added some tests as well
 
 ## Section 3
 My branch stuff
+
+## Section 4
+Now adding some stuff in a file that I am going to copy over the other stuff, to see if I can get the branching stuff right. 
+Plan is to 
+1. Create a new branch and check it out - alpha
+2. Create a 2nd branch from the new branch and check it out too - alpha-contrib
+3. Copy this modified file into the file structure
+4. Check the editor - did it show the differences
+5. Add the file. Commit. Push. 
+6. Check out alpha branch
+7. Merge alpha-contrib. 
+8. Delet alpha-contrib
+9. Check out master branch
+10. Merge alpha
+11. delete alpha branch. 
+
+
+
